@@ -1,6 +1,5 @@
 1. Business Task
-This is a case study for Bellabeat-a high-tech design and manufacturing company that produces health-focused smart devices for women. The goal of this report is to provide an analysis of how consumers are using their smart devices The insight gained from analyzing this data will be used to make recommendation for Bellabeat products to grow the business. Throughout the analysis attemp to answer these questions:
-
+This is a case study for Bellabeat-a high-tech design and manufacturing company that produces health-focused smart devices for women.
 What are some trends in Fitbit smart device usage?
 How could these trends apply to Bellabeat customers and help influence Bellabeat marketing strategy?
 2. Key Stakeholders
